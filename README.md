@@ -1,7 +1,13 @@
-# 👩‍💻 Ansa Khalid
+<div align="center">
 
+# 👩‍💻 Ansa Khalid  
 **Frontend React Developer**  
 Focused on building responsive, scalable, and user-friendly web applications using modern JavaScript frameworks and UI libraries.
+
+</div>
+
+---
+
 
 ---
 
@@ -18,8 +24,6 @@ I’m a passionate frontend developer with expertise in React, TypeScript, and U
 **Tools:** Git · GitHub · Firebase · VS Code
 
 ---
-
-
 
 ### 📊 GitHub Stats
 
