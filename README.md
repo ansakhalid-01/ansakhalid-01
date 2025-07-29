@@ -13,7 +13,7 @@
 
 ### 💼 About Me
 
-I’m a passionate frontend developer with expertise in React, TypeScript, and UI/UX design. I love creating clean, efficient code and seamless interfaces that work across devices.
+I am a dedicated frontend developer with strong expertise in React, TypeScript, and UI/UX design. I specialize in building clean, maintainable code and creating seamless, responsive interfaces optimized for performance across all devices.
 
 ---
 
