@@ -5,10 +5,6 @@
 Focused on building responsive, scalable, and user-friendly web applications using modern JavaScript frameworks and UI libraries.
 
 </div>
-
----
-
-
 ---
 
 ### 💼 About Me
