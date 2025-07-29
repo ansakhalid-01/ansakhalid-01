@@ -1,12 +1,14 @@
 <div align="center">
 
-# 👩‍💻 Ansa Khalid  
-**Frontend React Developer**  
-Focused on building responsive, scalable, and user-friendly web applications using modern JavaScript frameworks and UI libraries.
+# Ansa Khalid  
+**Frontend React Developer**
 
+**Frontend:** ReactJS · Redux · TypeScript · JavaScript · JSON · HTML5 · CSS3  
+**UI Libraries:** MUI · Bootstrap · Tailwind CSS
+
+</div>
 
 ---
-</div>
 
 
 ### 💼 About Me
