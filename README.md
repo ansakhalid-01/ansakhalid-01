@@ -45,7 +45,7 @@ I actively contribute across two GitHub accounts, each serving a distinct purpos
 ### 📫 Connect with Me
 
 - [LinkedIn](https://linkedin.com/in/ansa-khalid/)
-- [GitHub](https://github.com/Ansa-Khalid)
+- [GitHub](https://github.com/ansakhalid-01)
 - [Email](mailto:ansakhalid3@gmail.com)
 
 ---
