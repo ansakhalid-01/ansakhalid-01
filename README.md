@@ -1,7 +1,7 @@
 <div align="center">
 
 # Ansa Khalid  
-**Frontend React Developer**
+<h3>Frontend React Developer</h3>
 
 **Frontend:** ReactJS · Redux · TypeScript · JavaScript · JSON · HTML5 · CSS3  
 **UI Libraries:** MUI · Bootstrap · Tailwind CSS
