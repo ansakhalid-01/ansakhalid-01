@@ -33,8 +33,6 @@ I am a dedicated frontend developer with strong expertise in React, TypeScript, 
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ansakhalid-01&theme=flat&no-bg=true&margin-w=10)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ansakhalid-01&theme=default)
-
 ---
 
 ### 🧾 Contribution History
