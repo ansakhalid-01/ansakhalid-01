@@ -29,10 +29,6 @@ I am a dedicated frontend developer with strong expertise in React, TypeScript, 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansa-Khalid&layout=compact)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ansa-Khalid&theme=flat&no-bg=true&margin-w=10)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ansakhalid-01&theme=flat&no-bg=true&margin-w=10)
-
 ---
 
 ### 🧾 Contribution History
