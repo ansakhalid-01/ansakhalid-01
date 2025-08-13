@@ -1,50 +1,63 @@
 <div align="center">
 
-# Ansa Khalid  
-<h3>Frontend React Developer</h3>
+# 🚀 Ansa Khalid  
+**Frontend React Developer | Node.js API Developer**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ansa-Khalid)
-
-
-
-**Frontend:** ReactJS · Redux · TypeScript · JavaScript · JSON · HTML5 · CSS3  
-**UI Libraries:** MUI · Bootstrap · Tailwind CSS
+![Profile Views](https://komarev.com/ghpvc/?username=Ansa-Khalid&style=for-the-badge)
 
 </div>
 
 ---
 
+## 💡 About Me
 
-### 💼 About Me
-
-I am a dedicated frontend developer with strong expertise in React, TypeScript, and UI/UX design. I specialize in building clean, maintainable code and creating seamless, responsive interfaces optimized for performance across all devices.
-
----
-
-### 🛠️ Skills
-
-**Languages:** JavaScript · TypeScript · Python · Java  
-**Frameworks & Libraries:** React · Redux · Tailwind CSS · MUI · Bootstrap  
-**Tools:** Git · GitHub · Firebase · VS Code
+I am a **Frontend & API Developer** specializing in **React, TypeScript, and UI/UX design** — now also skilled in **Node.js, Express, and REST API development**.  
+My work focuses on **clean, maintainable code** and **responsive, high-performance applications** across devices.
 
 ---
 
+## 🛠 Tech Stack
 
-### 🧾 Contribution History
+**💻 Frontend:**  
+React · Redux · TypeScript · JavaScript · JSON · HTML5 · CSS3  
 
-I actively contribute across two GitHub accounts, each serving a distinct purpose:
+**🎨 UI Libraries:**  
+MUI · Bootstrap · Tailwind CSS  
 
-- 🧑‍💼 **Professional Account:** [ansakhalid-01](https://github.com/ansakhalid-01) – used for professional development, client work, and organization-owned repositories.
-- 💻 **Personal Account:** [Ansa-Khalid](https://github.com/Ansa-Khalid) – dedicated to personal projects, experimentation, and open-source contributions.
+**⚙ Backend & APIs:**  
+Node.js · Express.js · REST APIs · TypeScript  
 
----
-
-### 📫 Connect with Me
-
-- [LinkedIn](https://linkedin.com/in/ansa-khalid/)
-- [GitHub](https://github.com/ansakhalid-01)
-- [Email](mailto:ansakhalid3@gmail.com)
+**🧰 Tools & Platforms:**  
+Git · GitHub · Firebase · VS Code  
 
 ---
 
-*Let’s connect and build something amazing.*
+## 📌 Skills Overview
+
+| Category       | Skills |
+|----------------|--------|
+| **Languages**  | JavaScript · TypeScript · Python · Java |
+| **Frontend**   | React · Redux · Tailwind CSS · MUI · Bootstrap |
+| **Backend**    | Node.js · Express.js · REST APIs |
+| **Tools**      | Git · GitHub · Firebase · VS Code |
+
+---
+
+## 🧾 Contribution History
+
+I actively contribute across **two GitHub accounts**:
+
+- 🧑‍💼 **Professional:** [ansakhalid-01](https://github.com/ansakhalid-01) – professional projects, client work, and organization-owned repositories.  
+- 💻 **Personal:** [Ansa-Khalid](https://github.com/Ansa-Khalid) – personal projects, experiments, and open-source contributions.
+
+---
+
+## 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ansa-khalid/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ansakhalid-01)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ansakhalid3@gmail.com)  
+
+---
+
+✨ *Let’s collaborate and build something amazing together!*  
