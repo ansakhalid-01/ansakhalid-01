@@ -3,6 +3,10 @@
 # Ansa Khalid  
 <h3>Frontend React Developer</h3>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Ansa-Khalid)
+
+
+
 **Frontend:** ReactJS · Redux · TypeScript · JavaScript · JSON · HTML5 · CSS3  
 **UI Libraries:** MUI · Bootstrap · Tailwind CSS
 
