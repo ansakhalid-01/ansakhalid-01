@@ -11,8 +11,8 @@
 
 ## 💡 About Me
 
-I am a **Frontend & API Developer** specializing in **React, TypeScript, and UI/UX design** — now also skilled in **Node.js, Express, and REST API development**.  
-My work focuses on **clean, maintainable code** and **responsive, high-performance applications** across devices.
+I am a **Frontend Developer** specializing in **React, TypeScript, and UI/UX design** — with the ability to create **RESTful APIs using Node.js & Express**.  
+My focus is on **clean, maintainable code** and **responsive, high-performance applications** that work seamlessly across devices.
 
 ---
 
@@ -25,7 +25,7 @@ React · Redux · TypeScript · JavaScript · JSON · HTML5 · CSS3
 MUI · Bootstrap · Tailwind CSS  
 
 **⚙ Backend & APIs:**  
-Node.js · Express.js · REST APIs · TypeScript  
+Node.js · Express.js · REST API Development (TypeScript)  
 
 **🧰 Tools & Platforms:**  
 Git · GitHub · Firebase · VS Code  
@@ -38,7 +38,7 @@ Git · GitHub · Firebase · VS Code
 |----------------|--------|
 | **Languages**  | JavaScript · TypeScript · Python · Java |
 | **Frontend**   | React · Redux · Tailwind CSS · MUI · Bootstrap |
-| **Backend**    | Node.js · Express.js · REST APIs |
+| **Backend APIs** | Node.js · Express.js · REST API Development |
 | **Tools**      | Git · GitHub · Firebase · VS Code |
 
 ---
