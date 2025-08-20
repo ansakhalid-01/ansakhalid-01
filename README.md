@@ -3,7 +3,7 @@
 # 🚀 Ansa Khalid  
 **Frontend React Developer | Node.js API Developer**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ansa-Khalid&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=ansakhalid-01&style=for-the-badge)
 
 </div>
 
@@ -55,7 +55,7 @@ I actively contribute across **two GitHub accounts**:
 ## 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ansa-khalid/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ansakhalid-01)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ansa-Khalid)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ansakhalid3@gmail.com)  
 
 ---
